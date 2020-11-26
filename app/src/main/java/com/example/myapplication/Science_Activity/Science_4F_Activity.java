@@ -236,16 +236,16 @@ public class FL2View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(1360, 330);
-        path.lineTo(1360, 300);
-        path.lineTo(1540, 300);
-        path.lineTo(1540, 225);
+
+        path.moveTo(1360, 350);
+        path.lineTo(1540, 350);
+        path.lineTo(1540, 270);
 
 
         canvas.drawPath(path, MyPaint);
     }
 }
-//404
+//405
 public class FL3View extends View {
     public FL3View(Context context) {
         super(context);
@@ -262,16 +262,15 @@ public class FL3View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(1360, 260);
-        path.lineTo(1360, 300);
-        path.lineTo(1540, 300);
-        path.lineTo(1540, 220);
 
+        path.moveTo(1400, 350);
+        path.lineTo(1540, 350);
+        path.lineTo(1540, 270);
 
         canvas.drawPath(path, MyPaint);
     }
 }
-//405
+//406
 public class FL4View extends View {
     public FL4View(Context context) {
         super(context);
@@ -288,12 +287,11 @@ public class FL4View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(1110, 260);
-        path.lineTo(1110, 300);
+        path.moveTo(1110, 350);
+        path.lineTo(1020, 350);
         path.lineTo(1020, 300);
-        path.lineTo(1020, 250);
+        path.lineTo(970, 300);
         path.lineTo(970, 250);
-        path.lineTo(970, 200);
         canvas.drawPath(path, MyPaint);
     }
 }
@@ -314,10 +312,10 @@ public class FL5View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(810, 240);
-        path.lineTo(810, 280);
-        path.lineTo(970, 280);
-        path.lineTo(970, 200);
+        path.moveTo(800, 280);
+        path.lineTo(800, 330);
+        path.lineTo(970, 330);
+        path.lineTo(970, 250);
 
         canvas.drawPath(path, MyPaint);
     }
@@ -340,15 +338,15 @@ public class FL6View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(440, 240);
-        path.lineTo(440, 330);
-
+        path.moveTo(670, 330);
+        path.lineTo(360, 330);
+        path.lineTo(360, 370);
 
 
         canvas.drawPath(path, MyPaint);
     }
 }
-//409
+//410
 public class FL7View extends View {
     public FL7View(Context context) {
         super(context);
@@ -365,10 +363,10 @@ public class FL7View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(550, 320);
-        path.lineTo(550, 280);
-        path.lineTo(440, 280);
-        path.lineTo(440, 330);
+        path.moveTo(670, 330);
+        path.lineTo(360, 330);
+        path.lineTo(360, 370);
+
 
 
 
@@ -376,7 +374,7 @@ public class FL7View extends View {
         canvas.drawPath(path, MyPaint);
     }
 }
-//410
+//413
 public class FL8View extends View {
     public FL8View(Context context) {
         super(context);
@@ -393,10 +391,10 @@ public class FL8View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(840, 320);
-        path.lineTo(840, 280);
-        path.lineTo(970, 280);
-        path.lineTo(970, 200);
+        path.moveTo(800, 350);
+        path.lineTo(800, 320);
+        path.lineTo(970, 320);
+        path.lineTo(970, 250);
 
 
 
@@ -404,7 +402,7 @@ public class FL8View extends View {
         canvas.drawPath(path, MyPaint);
     }
 }
-//411
+//414
 public class FL9View extends View {
     public FL9View(Context context) {
         super(context);
@@ -421,8 +419,8 @@ public class FL9View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(990, 300);
-        path.lineTo(990, 200);
+        path.moveTo(990, 400);
+        path.lineTo(990, 250);
 
 
 
@@ -447,8 +445,8 @@ public class FL10View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(1540, 500);
-        path.lineTo(1540, 210);
+        path.moveTo(1620, 520);
+        path.lineTo(1620, 250);
 
 
         canvas.drawPath(path, MyPaint);
@@ -472,16 +470,16 @@ public class FL11View extends View {
         MyPaint.setColor(Color.GREEN);
 
         Path path = new Path();
-        path.moveTo(1640, 400);
-        path.lineTo(1540, 400);
-        path.lineTo(1540, 210);
+        path.moveTo(1620, 730);
+        path.lineTo(1620, 880);
+        path.lineTo(1670, 880);
 
         canvas.drawPath(path, MyPaint);
     }
 }
 
 
-    //411
+    //456
     public class FL12View extends View {
         public FL12View(Context context) {
             super(context);
@@ -498,16 +496,16 @@ public class FL11View extends View {
             MyPaint.setColor(Color.GREEN);
 
             Path path = new Path();
-            path.moveTo(990, 300);
-            path.lineTo(990, 200);
-
+            path.moveTo(1620, 730);
+            path.lineTo(1620, 880);
+            path.lineTo(1670, 880);
 
 
 
             canvas.drawPath(path, MyPaint);
         }
     }
-    //451
+    //457
     public class FL13View extends View {
         public FL13View(Context context) {
             super(context);
@@ -524,15 +522,16 @@ public class FL11View extends View {
             MyPaint.setColor(Color.GREEN);
 
             Path path = new Path();
-            path.moveTo(1540, 500);
-            path.lineTo(1540, 210);
+            path.moveTo(1620, 520);
+            path.lineTo(1620, 250);
+
 
 
             canvas.drawPath(path, MyPaint);
         }
     }
 
-    //453
+    //459
     public class FL14View extends View {
         public FL14View(Context context) {
             super(context);
@@ -549,9 +548,8 @@ public class FL11View extends View {
             MyPaint.setColor(Color.GREEN);
 
             Path path = new Path();
-            path.moveTo(1640, 400);
-            path.lineTo(1540, 400);
-            path.lineTo(1540, 210);
+            path.moveTo(1620, 420);
+            path.lineTo(1620, 250);
 
             canvas.drawPath(path, MyPaint);
         }
@@ -574,16 +572,16 @@ public class finalView extends View {
 
         Path path = new Path();
         //609뒤점2~651뒤점1
-        path.moveTo(440, 330);
-        path.lineTo(440, 280);
-        path.lineTo(990, 280);
+        path.moveTo(400, 360);
+        path.lineTo(400, 310);
         path.lineTo(990, 310);
+        path.lineTo(990, 340);
 
-        path.moveTo(990, 310);
-        path.lineTo(1540, 310);
-        path.lineTo(1540, 800);
-        path.lineTo(1600, 800);
-        path.lineTo(1600, 900);
+        path.moveTo(990, 340);
+        path.lineTo(1620, 340);
+        path.lineTo(1620, 840);
+        path.lineTo(1660, 840);
+
         canvas.drawPath(path, MyPaint);
     }
 }
@@ -1084,7 +1082,7 @@ public class finalView extends View {
             @Override
             public void onClick(View v) {
 
-                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1580,1570); //x 좌표
+                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1570,1570); //x 좌표
                 animation1.setDuration(1600);
                 animation1.start();
 
@@ -1138,11 +1136,11 @@ public class finalView extends View {
             @Override
             public void onClick(View v) {
 
-                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1570,1570); //x 좌표
+                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1570,1570,1620); //x 좌표
                 animation1.setDuration(1800);
                 animation1.start();
 
-                ObjectAnimator animation3 = ObjectAnimator.ofFloat(iv, "translationY", 680,220); //y 좌표
+                ObjectAnimator animation3 = ObjectAnimator.ofFloat(iv, "translationY", 700,800,800); //y 좌표
                 animation3.setDuration(1800);
                 animation3.start();
                 animation1.setRepeatCount(ValueAnimator.REVERSE);
@@ -1191,11 +1189,11 @@ public class finalView extends View {
             @Override
             public void onClick(View v) {
 
-                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1570,1570); //x 좌표
+                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1570,1570,1620); //x 좌표
                 animation1.setDuration(1800);
                 animation1.start();
 
-                ObjectAnimator animation3 = ObjectAnimator.ofFloat(iv, "translationY", 680,220); //y 좌표
+                ObjectAnimator animation3 = ObjectAnimator.ofFloat(iv, "translationY", 700,800,800); //y 좌표
                 animation3.setDuration(1800);
                 animation3.start();
                 animation1.setRepeatCount(ValueAnimator.REVERSE);
@@ -1244,7 +1242,7 @@ public class finalView extends View {
             @Override
             public void onClick(View v) {
 
-                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1580,1570); //x 좌표
+                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1570,1570); //x 좌표
                 animation1.setDuration(1600);
                 animation1.start();
 
@@ -1297,11 +1295,11 @@ public class finalView extends View {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1580,1570); //x 좌표
+                ObjectAnimator animation1 = ObjectAnimator.ofFloat(iv, "translationX", 1570,1570); //x 좌표
                 animation1.setDuration(1600);
                 animation1.start();
 
-                ObjectAnimator animation3 = ObjectAnimator.ofFloat(iv, "translationY", 430,210); //y 좌표
+                ObjectAnimator animation3 = ObjectAnimator.ofFloat(iv, "translationY", 370,210); //y 좌표
                 animation3.setDuration(1600);
                 animation3.start();
                 animation1.setRepeatCount(ValueAnimator.REVERSE);
