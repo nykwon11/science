@@ -270,7 +270,7 @@ public class Science_3F_Activity extends AppCompatActivity {
         });
     }
     private void moving_310() {
-        final Button b = (Button) findViewById(R.id.s_310);
+        final Button b = (Button) findViewById(R.id.s_311);
         final ImageView iv = (ImageView) findViewById(R.id.imageView1);
         imageView1 = findViewById(R.id.imageView1);
         b.setOnClickListener(new View.OnClickListener() {

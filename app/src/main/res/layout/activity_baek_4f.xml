@@ -548,6 +548,4 @@
         app:lottie_fileName="man-run.json"
         app:lottie_loop="true"
         tools:ignore="MissingConstraints" />
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
