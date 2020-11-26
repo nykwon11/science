@@ -71,6 +71,9 @@
         <activity android:name=".Library_Activity.Library_4F_Activity"/>
         <activity android:name=".Library_Activity.Library_5F_Activity"/>
         <activity android:name=".Library_Activity.Library_6F_Activity"/>
+        <activity android:name=".Rena_Activity.Rena_1F_Activity"/>
+        <activity android:name=".Rena_Activity.Rena_2F_Activity"/>
+        <activity android:name=".Rena_Activity.Rena_3F_Activity"/>
         <activity android:name=".Rena_Activity.Rena_4F_Activity"/>
         <activity android:name=".Rena_Activity.Rena_5F_Activity"/>
         <activity android:name=".Med_Activity.Med_1F_Activity"/>

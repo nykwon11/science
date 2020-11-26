@@ -22,7 +22,6 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.drawerlayout.widget.DrawerLayout;
 
-import com.airbnb.lottie.L;
 import com.example.myapplication.Art_Activity.Art_1F_Activity;
 import com.example.myapplication.Art_Activity.Art_2F_Activity;
 import com.example.myapplication.Art_Activity.Art_3F_Activity;
